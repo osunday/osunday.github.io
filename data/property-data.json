@@ -1,0 +1,39 @@
+{
+  "properties": [{
+    "id": 1,
+    "price": 1000000,
+    "bedrooms": 7,
+    "bathrooms": 2,
+    "houseNumber": "12",
+    "address": "Richard Lane",
+    "region": "London",
+    "postcode": "W1F 3FT",
+    "type": "DETACHED",
+    "agentId":3
+  },
+    {
+      "id": 2,
+      "price": 100000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "houseNumber": "22",
+      "address": "Brick Road",
+      "region": "Sheffield",
+      "postcode": "SH1 1AW",
+      "type": "TERRACED",
+      "agentId":1
+    },
+    {
+      "id": 3,
+      "price": 225000,
+      "bedrooms": 5,
+      "bathrooms": 0,
+      "houseNumber": "40",
+      "address": "Yellow Lane",
+      "region": "Manchester",
+      "postcode": "MA12 3ZY",
+      "type": "DETACHED",
+      "agentId":6
+    }
+  ]
+}
